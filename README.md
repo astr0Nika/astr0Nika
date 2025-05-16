@@ -2,8 +2,12 @@
 
 - 🔭 I am a **developer apprentice**
 - 👨‍💻 Located in **Austria**
-- 🌱 I’m currently learning **.NET (C#, Blazor), Angular and Javascript**
-- ⚡ Fun fact: **I am a hip hop dancer**
+- 🌱 I’m currently learning:
+     - **.NET** (C#, Blazor),
+     - **Angular** (TypeScript, HTML)
+- ⚡ Fun fact:
+     - I am a **hip hop** dancer
+     - I am a **motorbike** driver
 
 ---
 
